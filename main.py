@@ -1,6 +1,6 @@
 import os
 
-print(os.listdir())
-print(os.get_blocking())
+# We are using OS module
+print(os.listdr())
 
-print(os.chdir("/"))
+print(os.getcwd())
